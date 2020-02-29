@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "484887627579",
+    "firebase_url": "https://storage-3cff8.firebaseio.com",
+    "project_id": "storage-3cff8",
+    "storage_bucket": "storage-3cff8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484887627579:android:6a6a0f43d380a70909991e",
+        "android_client_info": {
+          "package_name": "easyapproach.com.flutter_storage_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484887627579-82dat6crij2cii4gfupbgomhj7nkll24.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBE0U8qIKY9xdz3okoGUOlmNWN3T2Flig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484887627579-82dat6crij2cii4gfupbgomhj7nkll24.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
